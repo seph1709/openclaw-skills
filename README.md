@@ -8,7 +8,6 @@ Personal collection of custom skills and automation tools I built for the OpenCl
 
 | Skill | Description |
 |-------|-------------|
-| [facebook-page](https://github.com/seph1709/facebook-page) | Interact with any Facebook Page via Meta Graph API |
 | [fb-page](https://github.com/seph1709/fb-page) | Automate Facebook Page posts, scheduling, and messaging via Meta Graph API |
 | [fb-inbox-forward](https://github.com/seph1709/fb-inbox-forward) | Poll Facebook Page inbox and forward new messages to a notification channel |
 | [instagram-page](https://github.com/seph1709/instagram-page) | Interact with any Instagram Business/Creator account via Instagram Graph API |
